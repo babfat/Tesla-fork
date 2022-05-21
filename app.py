@@ -1,0 +1,6 @@
+print( rowland )
+print( roselene )
+print( bolajoko )
+print( charles )
+print(simeon )
+print( rachael)
