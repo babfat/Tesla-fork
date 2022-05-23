@@ -5,3 +5,5 @@ rayo
  tamilore
  dabira
  ayanwole
+ dev env
+ deploy is good
